@@ -23,6 +23,19 @@
   color: #61dafb;
 }
 
+.signupInput {
+  display: block;
+  font-size: 25px;
+  margin-bottom: 20px; 
+}
+
+button {
+  font-size: 17.6px;
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
