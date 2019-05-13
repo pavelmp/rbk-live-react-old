@@ -7,5 +7,8 @@ Components:
 Stateful vs. Stateless components (components that have this.state and components that don't):
 https://medium.com/@cgcrutch18/stateful-vs-stateless-react-components-13f647f7fc4
 
+How to use fetch
+https://www.robinwieruch.de/react-fetching-data/
+
 Adding JWT tokens to react app:
 https://medium.com/@romanchvalbo/how-i-set-up-react-and-node-with-json-web-token-for-authentication-259ec1a90352
